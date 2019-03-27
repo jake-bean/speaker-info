@@ -8,8 +8,8 @@ This repo is designed to hold information about me, for use in speaker bios for 
 About Me
 --------
 
-Principal Architect at [Credera](http://www.credera.com)
+Group Vice President of Technology at Leslie's Poolmart
 
-Web: [iamagiantnerd.com](http://iamagiantnerd.com), Twitter: [@iamagiantnerd](https://twitter.com/iamagiantnerd), Email: david.ayers@credera.com
+Web: [iamagiantnerd.com](http://iamagiantnerd.com), Twitter: [@iamagiantnerd](https://twitter.com/iamagiantnerd), Email: dayers@lesl.com
 
 [Full Bio](bio.md) | [Headshot](pics/david-headshot.png) | [Cartoon Avatar](pics/woohoo_cartoon.png)
