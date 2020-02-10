@@ -10,6 +10,6 @@ About Me
 
 Group Vice President of Technology at Leslie's Poolmart
 
-Web: [iamagiantnerd.com](http://iamagiantnerd.com), Twitter: [@iamagiantnerd](https://twitter.com/iamagiantnerd), Email: dayers@lesl.com
+Web: [iamagiantnerd.com](http://iamagiantnerd.com), Twitter: [@iamagiantnerd](https://twitter.com/iamagiantnerd), Email: david@iamagiantnerd.com
 
 [Full Bio](bio.md) | [Headshot](pics/david-headshot.png) | [Cartoon Avatar](pics/woohoo_cartoon.png)
