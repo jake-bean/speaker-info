@@ -8,7 +8,7 @@ This repo is designed to hold information about me, for use in speaker bios for 
 About Me
 --------
 
-Group Vice President of Technology at Leslie's Poolmart
+VP of Engineering at [Invitation Homes](https://www.invitationhomes.com/)
 
 Web: [iamagiantnerd.com](http://iamagiantnerd.com), Twitter: [@iamagiantnerd](https://twitter.com/iamagiantnerd), Email: david@iamagiantnerd.com
 
