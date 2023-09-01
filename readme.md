@@ -12,4 +12,4 @@ VP of Engineering at [Invitation Homes](https://www.invitationhomes.com/)
 
 Web: [iamagiantnerd.com](http://iamagiantnerd.com), Twitter: [@iamagiantnerd](https://twitter.com/iamagiantnerd), Email: david@iamagiantnerd.com
 
-[Full Bio](bio.md) | [Headshot](pics/headshot.png) | [Cartoon Avatar](pics/woohoo_cartoon.png)
+[Full Bio](bio.md) | [Headshot](pics/headshot_large.jpg) | [Cartoon Avatar](pics/woohoo_cartoon.png)
